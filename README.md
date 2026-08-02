@@ -33,6 +33,11 @@ NDB Bank | SME Centralized Credit Department
 - HTML & CSS
 - JavaScript
 - SQL
+  
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=HimashaAbeysiri&show_icons=true&theme=radical" />
+  
 
 ## 📌 Projects
 
