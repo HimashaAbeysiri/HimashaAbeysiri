@@ -1,15 +1,45 @@
+<img width="100%" src="https://github.com/user-attachments/assets/44d58828-eb8c-467b-b0d2-94265b39eb3e" />
+
 # Hi 👋 I'm Nethmi Himasha
 
 ### 💻 Aspiring Data Scientist & Software Developer
 
-🌱 Currently learning:
+I am passionate about **Data Science, Machine Learning, and Software Development**.  
+Currently exploring how data and technology can solve real-world problems.
+
+## 🌱 Currently Learning
+
+- 🐍 Python
+- 🤖 Machine Learning
+- 📊 Data Science
+- 🗄️ SQL
+
+## 🎓 Education
+
+🎓 **BSc (Hons) Data Science** - ICBT Campus
+
+## 💼 Experience
+
+🏦 **Senior Banking Associate**  
+NDB Bank | SME Centralized Credit Department
+
+## 🛠️ Skills
+
 - Python
+- Pandas
+- NumPy
 - Machine Learning
-- Data Science
+- Data Analysis
+- HTML & CSS
+- JavaScript
+- SQL
 
-🎓 BSc (Hons) Data Science - ICBT
+## 📌 Projects
 
-🏦 Senior Banking Associate - NDB Bank
+🔹 Loan Eligibility Predictor (Machine Learning)  
+🔹 Data Analysis Projects  
+🔹 Software Development Projects
 
-📫 Email:
-nethmaldn@gmail.com
+## 📫 Connect With Me
+
+📧 Email: nethmaldn@gmail.com
