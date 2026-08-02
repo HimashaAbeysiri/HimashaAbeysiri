@@ -34,11 +34,6 @@ NDB Bank | SME Centralized Credit Department
 - JavaScript
 - SQL
   
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=HimashaAbeysiri&show_icons=true&theme=radical" />
-  
-
 ## 📌 Projects
 
 🔹 Loan Eligibility Predictor (Machine Learning)  
@@ -48,3 +43,11 @@ NDB Bank | SME Centralized Credit Department
 ## 📫 Connect With Me
 
 📧 Email: nethmaldn@gmail.com
+
+## 📊 GitHub Stats
+
+![Himasha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimashaAbeysiri&show_icons=true&hide_border=true)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaAbeysiri&layout=compact&hide_border=true)
