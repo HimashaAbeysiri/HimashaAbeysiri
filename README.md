@@ -43,11 +43,3 @@ NDB Bank | SME Centralized Credit Department
 ## 📫 Connect With Me
 
 📧 Email: nethmaldn@gmail.com
-
-## 📊 GitHub Stats
-
-![Himasha's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HimashaAbeysiri&show_icons=true&hide_border=true)
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HimashaAbeysiri&layout=compact&hide_border=true)
