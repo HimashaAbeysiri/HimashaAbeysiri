@@ -21,7 +21,7 @@ Currently exploring how data and technology can solve real-world problems.
 ## 💼 Experience
 
 🏦 **Senior Banking Associate**  
-NDB Bank | SME Centralized Credit Department
+NDB Bank | IT Department
 
 ## 🛠️ Skills
 
