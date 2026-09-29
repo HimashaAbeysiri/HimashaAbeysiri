@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/user-attachments/assets/44d58828-eb8c-467b-b0d2-94265b39eb3e" />
 
-# Hi I'm Nethmi Himasha
+# Hi I'm Himasha Abeysiri
 
 ### 💻 Aspiring Data Scientist & Software Developer
 
